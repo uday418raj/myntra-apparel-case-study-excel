@@ -9,7 +9,7 @@ Data cleaning, analysis, and lookup implementation on a 500k+ product dataset fr
 
 **Key Objectives**
 
-Clean and standardize dataset (duplicate removal, missing value imputation)
+Clean and standardize dataset (duplicate removal, missing value imputation)/n
 Analyze pricing strategies and discount structures
 Identify correlations between price and customer ratings
 Build zero-latency retrieval system using Excel lookup functions
