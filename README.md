@@ -3,7 +3,7 @@ Data cleaning, analysis, and lookup functions performed on a 500k+ product datas
 
 **Myntra Fashion Analytics**
 
-**Overview** 
+**Overview** :
  Data cleaning, analysis, and lookup implementation on a 500k+ product dataset from Myntra to uncover pricing, discount, and rating insights.
 
 **Key Objectives**
@@ -12,7 +12,7 @@ Data cleaning, analysis, and lookup functions performed on a 500k+ product datas
 3. Identify correlations between price and customer ratings
 4. Build zero-latency retrieval system using Excel lookup functions
 
-**Dataset Scale** 
+**Dataset Scale** :
  526,564 Products | 2,087 Brands
  8 Categories | 92 Sub-categories |
  Zero duplicate rows
@@ -42,7 +42,7 @@ Data cleaning, analysis, and lookup functions performed on a 500k+ product datas
 3. Data Gap: 64% of products (336,152) lack user reviews
 4. Category Discounts: Indian Wear (57%), Plus Size (58%), Sports Wear (46%)
 
-**Technologies Used** 
+**Technologies Used** :
 Microsoft Excel (XLOOKUP, INDEX/MATCH, AVERAGEIF, COUNTIF)
 
 **Repository Contents** 
